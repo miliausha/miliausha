@@ -23,17 +23,6 @@ I'm a passionate software developer with a strong interest in building meaningfu
 
 ---
 
-## 💼 Projects
-
-| Project | Description |
-|--------|-------------|
-| 🐢 **TurtleBot** | Arduino-powered robot that walks and avoids obstacles |
-| 🐙 **octoPussy** | Creative hackathon project exploring smart tools for coders |
-| 🔐 **Auth42** | Authentication system for student platform |
-| 🧩 **Escape Room for Programmers** | Puzzle-based game with logic challenges |
-
----
-
 ## 🧠 Interests
 
 - Cognitive Behavioral Therapy (CBT) tools for ADHD  
