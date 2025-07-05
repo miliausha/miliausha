@@ -44,7 +44,7 @@ I'm currently working on a personal blog about **mental health, impostor syndrom
 - GitHub: [miliausha](https://github.com/miliausha)  
 - Email: beveganforlife@gmail.com
 - Discord: milya5769
-- LinkedIn: [linkedin.com/in/milya](https://linkedin.com/in/milya)
+- LinkedIn: [linkedin.com/in/milyavalieva](https://linkedin.com/in/milyavalieva)
 
 ---
 
